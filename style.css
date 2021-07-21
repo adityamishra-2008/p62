@@ -1,0 +1,74 @@
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+       background-image: linear-gradient(#9878de 0%, #fc46d9 100%)
+
+}
+.line{
+    
+    height:6px;
+    background-color: black;
+    width:300px;
+    margin: 8px auto;
+
+    
+}
+h1{
+    font-size: 40;
+    font-weight: bold;
+    font-family: cursive;
+}
+#fh {
+    width: 25%;
+    border-radius: 50%;
+
+}
+
+#sm{
+    width: 25%;
+    height:50% ;
+}
+
+
+#ca{
+    width: 30%; 
+    height:50%;
+}
+
+.menu{
+list-style:none;
+    position:fixed;
+    top: 0px;
+  
+    z-index:10;
+
+    background-color: cyan;
+    width: 100%;
+    margin-top: 0px;  
+}
+
+.links{
+
+display: inline;
+color:black;
+
+ padding-left: 33px;
+
+padding-right: 25px;
+
+font-family:cursive;
+
+    font-size: 20px
+}
+.Links:hover{
+   color:snow;
+    font-size:25px;
+}
+
+
+
